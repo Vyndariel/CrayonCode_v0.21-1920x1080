@@ -1,0 +1,36 @@
+01:21.56 Starting...
+01:21.57 Fullscreen detected (1920x1080) - No Offsets
+01:21.57 E: ClientSize does not match:1920x1080[1280x768
+01:21.57 E: Client resolution deviates from resolution_settings.ini
+01:22.46 Starting...
+01:22.47 Fullscreen detected (1920x1080) - No Offsets
+01:22.47 ClientSize matches Resolution Settings.
+01:22.47 Detecting free inventory space
+01:22.48 Inventory closed
+01:22.58 70 empty slots
+01:22.58 Unidentified state
+01:22.58 Unidentified state (0s)
+01:22.58 Unidentified state (1s)
+01:22.59 Unidentified state (2s)
+01:23.00 Unidentified state (3s)
+01:23.01 Unidentified state (4s)
+01:23.02 Unidentified state (5s)
+01:23.03 Unidentified state (6s)
+01:23.04 Unidentified state (7s)
+01:23.05 Unidentified state (8s)
+01:23.06 Unidentified state (9s)
+01:23.07 Unidentified state (10s)
+01:23.08 Game connected: 1
+01:23.08 Unidentified state. Trying to equip fishingrod.
+01:23.11 Inventory closed
+01:23.14 Fishingrod equipped from position 0, 0
+01:23.18 Ready for fishing.
+01:23.18 Casting Fishingrod
+01:23.25 Pausing.
+01:23.25 Fishing stopped.
+17:11.08 Fullscreen detected (1920x1080) - No Offsets
+17:11.08 Feeding Worker
+17:11.16 Feeding Worker CD: 90
+18:13.30 Fullscreen detected (1920x1080) - No Offsets
+18:13.30 Feeding Worker
+18:13.37 Feeding Worker CD: 90
